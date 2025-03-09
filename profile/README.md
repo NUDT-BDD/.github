@@ -41,15 +41,10 @@
 17. 基于混合相似度度量的跨语言舰船实体匹配算法
 
 18. 基于本体的武器装备体系知识建模研究
-19. 
+
 
 🍿**Dataset**  Publicly available datasets within the group, including：
 
-
 1.Event
-
-2.hi
-
-3.dodo
 
 🧙 If you have any questions, please contact us promptly！！！
