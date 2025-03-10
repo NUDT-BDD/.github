@@ -6,7 +6,7 @@
 
 👩‍💻**Paper（The work we have done）**
 
-1. Robustness Analysis on Graph Neural Networks Model for Event Detection
+1. [Robustness Analysis on Graph Neural Networks Model for Event Detection](https://www.sciencedirect.com/science/article/pii/S0950705125002680)
 
 2. Causal Knowledge Integrated with Attention for Interpretable Event Detection
    
