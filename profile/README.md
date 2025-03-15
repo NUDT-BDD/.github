@@ -8,7 +8,7 @@
 
 1. [Robustness Analysis on Graph Neural Networks Model for Event Detection](https://www.sciencedirect.com/science/article/pii/S0950705125002680)
 
-2. [Causal Knowledge Integrated with Attention for Interpretable Event Detection](https://ieeexplore.ieee.org/document/10429095)
+2. [Causal Knowledge Integrated with Attention for Interpretable Event Detection(BIGDIA'23)](https://ieeexplore.ieee.org/document/10429095)
    
 3. [Attention-Based Graph Convolution Networks for Event Detection](https://ieeexplore.ieee.org/abstract/document/9619647)
 
@@ -40,8 +40,9 @@
 
 18. [基于混合相似度度量的跨语言舰船实体匹配算法](https://d.wanfangdata.com.cn/periodical/zzdxxb202204002)
 
-19. 基于本体的武器装备体系知识建模研究
+19.[CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News(LREC-COLING'24)](https://aclanthology.org/2024.lrec-main.299/)
 
+20.[LC4EE: LLMs as Good Corrector for Event Extraction(ACL'2024)](https://aclanthology.org/2024.findings-acl.715/)
 
 🍿**Dataset**  Publicly available datasets within the group, including：
 
