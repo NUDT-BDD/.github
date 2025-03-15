@@ -6,7 +6,8 @@
 
 👩‍💻**Paper（The work we have done）**
 
- 自然语言处理方向：命名实体识别、事件检测、事件抽取、事件相关数据集构建
+![052ECA72](https://github.com/user-attachments/assets/bede310d-2e1f-4f30-bf53-f073382ca3a2)
+自然语言处理方向：命名实体识别、事件检测、事件抽取、事件相关数据集构建
 
 1. [EventSum: A Large-Scale Event-Centric Summarization Dataset for Chinese Multi-News Documents ](https://arxiv.org/abs/2412.11814) (AAAI'25)
 2. [LC4EE: LLMs as Good Corrector for Event Extraction ](https://aclanthology.org/2024.findings-acl.715/) (ACL'2024)
