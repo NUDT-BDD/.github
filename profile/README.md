@@ -47,7 +47,9 @@ Artificial intelligence, machine learning, causal learning, reinforcement learni
 🍿**Dataset**  Publicly available datasets within the group, including：
 
 1.[CMNEE](https://aclanthology.org/2024.lrec-main.299/)
+
 2.[LC4EE](https://aclanthology.org/2024.findings-acl.715/)
+
 3.[开源军事新闻的领域事件数据集](https://d.wanfangdata.com.cn/periodical/zgkxsj202301031)
 
 🧙 If you have any questions, please contact us promptly！！！
