@@ -8,45 +8,40 @@
 
  自然语言处理方向：命名实体识别、事件检测、事件抽取、事件相关数据集构建
 
- 1. [CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News (LREC-COLING'24)](https://aclanthology.org/2024.lrec-main.299/)
+ 1. [CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News ](https://aclanthology.org/2024.lrec-main.299/) (LREC-COLING'24)
 
-2. [LC4EE: LLMs as Good Corrector for Event Extraction (ACL'2024)](https://aclanthology.org/2024.findings-acl.715/)
+2. [LC4EE: LLMs as Good Corrector for Event Extraction ](https://aclanthology.org/2024.findings-acl.715/) (ACL'2024)
 
-3. [EventSum: A Large-Scale Event-Centric Summarization Dataset for Chinese Multi-News Documents (AAAI'25)](https://arxiv.org/abs/2412.11814)
+3. [EventSum: A Large-Scale Event-Centric Summarization Dataset for Chinese Multi-News Documents ](https://arxiv.org/abs/2412.11814) (AAAI'25)
 
 4. Entity Information and Multi-arguments Prompts Intergrated for Document-level Event Extraction
 
-5. Thematic Event Clustering and Storyline Analysis Based on Multi-source Heterogeneous Chinese International Negotiation Documents
+5. [Thematic Event Clustering and Storyline Analysis Based on Multi-source Heterogeneous Chinese International Negotiation Documents](https://ieeexplore.ieee.org/document/10808720) (BIGDIA'24)
 
-6. [Robustness Analysis on Graph Neural Networks Model for Event Detection](https://www.sciencedirect.com/science/article/pii/S0950705125002680)
+6. [Robustness Analysis on Graph Neural Networks Model for Event Detection](https://www.sciencedirect.com/science/article/pii/S0950705125002680) (SCI 3)
 
-7. [Causal Knowledge Integrated with Attention for Interpretable Event Detection (BIGDIA'23)](https://ieeexplore.ieee.org/document/10429095)
+7. [Causal Knowledge Integrated with Attention for Interpretable Event Detection](https://ieeexplore.ieee.org/document/10429095) (BIGDIA'23)
    
-8. [Attention-Based Graph Convolution Networks for Event Detection](https://ieeexplore.ieee.org/abstract/document/9619647)
+8. [Filed Named Entity Recognition Based on Double Layer Conditional Random Fields](https://ieeexplore.ieee.org/document/10429568) (BIGDIA'23)
 
-9. [Filed Named Entity Recognition Based on Double Layer Conditional Random Fields](https://ieeexplore.ieee.org/document/10429568)
-   
-10. Entity information and Multi-arguments Prompts Integrated for Document-level Event Extraction
+9. [Robustness Analysis and Evaluation Study of Chinese Text Event Detection Models](https://ieeexplore.ieee.org/document/10429355) (BIGDIA'23)
 
-11. Robustness Analysis and Evaluation Study of Chinese Text Event Detection Models (BIGDIA'23)
+10. [Attention-Based Graph Convolution Networks for Event Detection](https://ieeexplore.ieee.org/abstract/document/9619647) (BIGDIA'21)
     
-12.  [基于开源军事新闻的领域事件数据集](https://d.wanfangdata.com.cn/periodical/zgkxsj202301031)
+11.  [基于开源军事新闻的领域事件数据集](https://d.wanfangdata.com.cn/periodical/zgkxsj202301031) 
 
 强化学习、目标检测、无人机路径规划方向：
 
 1. [An Online Learning Approach towards Far-sighted Emergency Relief Planning under Intentional Attacks in Conflict Areas](https://www.ijcai.org/proceedings/2022/649) (IJCAI'22)
-2. REINFORCE with Bound-guided Gradient Estimator for the traveling salesman problem toward scale generalization
+2. [REINFORCE with Bound-guided Gradient Estimator for the traveling salesman problem toward scale generalization](https://www.sciencedirect.com/science/article/abs/pii/S095219762401978X) (SCI 1)
 3. [Online Unmanned Aerial Vehicles Search Planning in an Unknown Search Environment (Drones)](https://www.mdpi.com/journal/drones) (SCI 2)
-4.  [A Family of Perturbed Parametric NCP Functions for Solving Problem of Search Theory ](https://dl.acm.org/doi/abs/10.1145/3474198.3478180) (EI)
-5. [Optimal Searching Time Allocation for Information Collection Under Cooperative Path Planning of Multiple UAVs](https://ieeexplore.ieee.org/abstract/document/9581056/authors#full-text-header) 
-6. Online Unmanned Aerial Vehicles Search Planning in an Unknown Search Environment
-7. A Two-stage Framework for Online Unmanned Aerial Vehicles Search Planning (EI)
-8. Energy Relay-Enhanced UAV Data Collection: A Case Study of Wildlife Monitoring Application (BIGDIA'24)
-9.  [Optimal Searching Time Allocation for Information Collection Under Cooperative Path Planning of Multiple UAVs](https://ieeexplore.ieee.org/abstract/document/9581056)
-10. [A method for accelerating relations search over big data scenario](https://dl.acm.org/doi/10.1145/3579654.3579686)
-11. [A Family of Perturbed Parametric NCP Functions for Solving Problem of Search Theory](extension://ngbkcglbmlglgldjfcnhaijeecaccgfi/https://dl.acm.org/doi/pdf/10.1145/3474198.3478180)
-12. [Hull Number Detection for Ship Images Based on Image Super-Resolution](https://ieeexplore.ieee.org/document/9263636)
-13. [基于深度学习的小目标检测综述](https://d.wanfangdata.com.cn/periodical/jsjgcykx202108012)
+4.  [A Family of Perturbed Parametric NCP Functions for Solving Problem of Search Theory ](https://dl.acm.org/doi/abs/10.1145/3474198.3478180) (ICFEICT'21)
+5. [Optimal Searching Time Allocation for Information Collection Under Cooperative Path Planning of Multiple UAVs](https://ieeexplore.ieee.org/abstract/document/9581056/authors#full-text-header)  (SCI 3)
+6. [Online Unmanned Aerial Vehicles Search Planning in an Unknown Search Environment](https://www.mdpi.com/2504-446X/8/7/336) (SCI 3)
+7. [A Two-stage Framework for Online Unmanned Aerial Vehicles Search Planning](https://dl.acm.org/doi/10.1145/3579731.3579806) (ACAI'22)
+8. [Energy Relay-Enhanced UAV Data Collection: A Case Study of Wildlife Monitoring Application](https://ieeexplore.ieee.org/document/10808312) (BIGDIA'24)
+9. [Hull Number Detection for Ship Images Based on Image Super-Resolution](https://ieeexplore.ieee.org/document/9263636) (CISP-BMEI'20)
+13. [基于深度学习的小目标检测综述](https://d.wanfangdata.com.cn/periodical/jsjgcykx202108012)  (CSCD,中文核心)
 14. [基于混合相似度度量的跨语言舰船实体匹配算法](https://d.wanfangdata.com.cn/periodical/zzdxxb202204002) (中文核心）
 
 因果学习方向：
