@@ -8,7 +8,7 @@
 
 1. [Robustness Analysis on Graph Neural Networks Model for Event Detection](https://www.sciencedirect.com/science/article/pii/S0950705125002680)
 
-2. [Causal Knowledge Integrated with Attention for Interpretable Event Detection(BIGDIA'23)](https://ieeexplore.ieee.org/document/10429095)
+2. [Causal Knowledge Integrated with Attention for Interpretable Event Detection (BIGDIA'23)](https://ieeexplore.ieee.org/document/10429095)
    
 3. [Attention-Based Graph Convolution Networks for Event Detection](https://ieeexplore.ieee.org/abstract/document/9619647)
 
@@ -44,6 +44,11 @@
 
 20.[LC4EE: LLMs as Good Corrector for Event Extraction(ACL'2024)](https://aclanthology.org/2024.findings-acl.715/)
 
+21.[REINFORCE with Bound-guided Gradient Estimator for the traveling salesman problem toward scale generalization (Engineering Applications of Artificial Intelligence (EAAI))](https://www.mdpi.com/journal/drones)
+
+22.[Online Unmanned Aerial Vehicles Search Planning in an Unknown Search Environment (Drones)](https://www.mdpi.com/journal/drones)
+
+23.
 🍿**Dataset**  Publicly available datasets within the group, including：
 
 1.Event
