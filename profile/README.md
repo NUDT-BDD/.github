@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-🌈**Research field** Artificial intelligence, machine learning, causal learning, reinforcement learning, natural language processing
+### 🌈**Research field** 
+Artificial intelligence, machine learning, causal learning, reinforcement learning, natural language processing
 
-👩‍💻**Paper（The work we have done）**
+### 👩‍💻**Paper（The work we have done）**
 
 🙋‍♀️**自然语言处理方向**：命名实体识别、事件检测、事件抽取、事件相关数据集构建
 
