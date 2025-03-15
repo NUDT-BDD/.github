@@ -8,9 +8,9 @@
 
  自然语言处理方向：命名实体识别、事件检测、事件抽取、事件相关数据集构建
 
-1. [CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News ](https://aclanthology.org/2024.lrec-main.299/) (LREC-COLING'24)
+1. [EventSum: A Large-Scale Event-Centric Summarization Dataset for Chinese Multi-News Documents ](https://arxiv.org/abs/2412.11814) (AAAI'25)
 2. [LC4EE: LLMs as Good Corrector for Event Extraction ](https://aclanthology.org/2024.findings-acl.715/) (ACL'2024)
-3. [EventSum: A Large-Scale Event-Centric Summarization Dataset for Chinese Multi-News Documents ](https://arxiv.org/abs/2412.11814) (AAAI'25)
+3. [CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News ](https://aclanthology.org/2024.lrec-main.299/) (LREC-COLING'24)
 4. Entity Information and Multi-arguments Prompts Intergrated for Document-level Event Extraction
 5. [Thematic Event Clustering and Storyline Analysis Based on Multi-source Heterogeneous Chinese International Negotiation Documents](https://ieeexplore.ieee.org/document/10808720) (BIGDIA'24)
 6. [Robustness Analysis on Graph Neural Networks Model for Event Detection](https://www.sciencedirect.com/science/article/pii/S0950705125002680) (SCI 3)
@@ -18,7 +18,7 @@
 8. [Filed Named Entity Recognition Based on Double Layer Conditional Random Fields](https://ieeexplore.ieee.org/document/10429568) (BIGDIA'23)
 9. [Robustness Analysis and Evaluation Study of Chinese Text Event Detection Models](https://ieeexplore.ieee.org/document/10429355) (BIGDIA'23)
 10. [Attention-Based Graph Convolution Networks for Event Detection](https://ieeexplore.ieee.org/abstract/document/9619647) (BIGDIA'21)  
-11.  [基于开源军事新闻的领域事件数据集](https://d.wanfangdata.com.cn/periodical/zgkxsj202301031) 
+11. [基于开源军事新闻的领域事件数据集](https://d.wanfangdata.com.cn/periodical/zgkxsj202301031) 
 
 强化学习、目标检测、无人机路径规划方向：
 
@@ -42,11 +42,13 @@
 1. [An improved routing protocol for raw data collection in multihop wireless sensor networks](https://www.sciencedirect.com/science/article/pii/S0140366422000597) (SCI 3)
 2. [Hybrid Similarity Measurement Algorithm based on Improved Phonetic Code](https://ieeexplore.ieee.org/document/9874206) (BIGDIA'22)
 3. [网络异构信息的张量分解聚类方法](https://d.wanfangdata.com.cn/periodical/gfkjdxxb201805022)
-4. [基于改进多目标进化算法的微服务用户请求分配策略] (https://d.wanfangdata.com.cn/periodical/jsjkx202110045) (EI,CSCD,中文核心)
+4. [基于改进多目标进化算法的微服务用户请求分配策略](https://d.wanfangdata.com.cn/periodical/jsjkx202110045) (EI,CSCD,中文核心)
 5. 一种面向高原无人区数据采集的无线传感网自动组网方法
 
 🍿**Dataset**  Publicly available datasets within the group, including：
 
-1.Event
+1.[CMNEE](https://aclanthology.org/2024.lrec-main.299/)
+2.[LC4EE](https://aclanthology.org/2024.findings-acl.715/)
+3.[开源军事新闻的领域事件数据集](https://d.wanfangdata.com.cn/periodical/zgkxsj202301031)
 
 🧙 If you have any questions, please contact us promptly！！！
