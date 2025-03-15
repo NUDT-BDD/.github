@@ -12,7 +12,7 @@ Artificial intelligence, machine learning, causal learning, reinforcement learni
 3. [CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News ](https://aclanthology.org/2024.lrec-main.299/) (LREC-COLING'24)
 4. Entity Information and Multi-arguments Prompts Intergrated for Document-level Event Extraction
 5. [Thematic Event Clustering and Storyline Analysis Based on Multi-source Heterogeneous Chinese International Negotiation Documents](https://ieeexplore.ieee.org/document/10808720) (BIGDIA'24)
-6. [Robustness Analysis on Graph Neural Networks Model for Event Detection](https://www.sciencedirect.com/science/article/pii/S0950705125002680) (SCI 3)
+6. [Robustness Analysis on Graph Neural Networks Model for Event Detection](https://www.mdpi.com/2076-3417/12/21/10825) (SCI 3)
 7. [Causal Knowledge Integrated with Attention for Interpretable Event Detection](https://ieeexplore.ieee.org/document/10429095) (BIGDIA'23)  
 8. [Filed Named Entity Recognition Based on Double Layer Conditional Random Fields](https://ieeexplore.ieee.org/document/10429568) (BIGDIA'23)
 9. [Robustness Analysis and Evaluation Study of Chinese Text Event Detection Models](https://ieeexplore.ieee.org/document/10429355) (BIGDIA'23)
