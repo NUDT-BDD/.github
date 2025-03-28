@@ -7,9 +7,9 @@ Artificial intelligence, machine learning, causal learning, reinforcement learni
 
 🙋‍♀️**自然语言处理方向**：命名实体识别、事件检测、事件抽取、事件相关数据集构建
 
-1. [EventSum: A Large-Scale Event-Centric Summarization Dataset for Chinese Multi-News Documents ](https://arxiv.org/abs/2412.11814) (AAAI'25)
-2. [LC4EE: LLMs as Good Corrector for Event Extraction ](https://aclanthology.org/2024.findings-acl.715/) (ACL'2024)
-3. [CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News ](https://aclanthology.org/2024.lrec-main.299/) (LREC-COLING'24)
+1. EventSum: A Large-Scale Event-Centric Summarization Dataset for Chinese Multi-News Documents.(AAAI'25)[[paper](https://arxiv.org/pdf/2412.11814)][[code](https://github.com/Mzzzhu/EventSum)]
+2. LC4EE: LLMs as Good Corrector for Event Extraction(ACL'2024)[[paper](https://aclanthology.org/2024.findings-acl.715/)][code]
+3. CMNEE: A Large-Scale Document-Level Event Extraction Dataset based on Open-Source Chinese Military News(LREC-COLING'24)[[paper](https://aclanthology.org/2024.lrec-main.299/)][code]
 4. Entity Information and Multi-arguments Prompts Intergrated for Document-level Event Extraction
 5. [Thematic Event Clustering and Storyline Analysis Based on Multi-source Heterogeneous Chinese International Negotiation Documents](https://ieeexplore.ieee.org/document/10808720) (BIGDIA'24)
 6. [Robustness Analysis on Graph Neural Networks Model for Event Detection](https://www.mdpi.com/2076-3417/12/21/10825) (SCI 3)
